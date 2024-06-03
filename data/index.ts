@@ -82,7 +82,7 @@ export const navItems = [
       des: "My portfolio website to showcase my projects and about me",
       img: "https://img.rudish.dev/2Y3fThkEOF.png",
       iconLists: ["/re.svg", "/next.svg","/tail.svg", "/ts.svg"],
-      link: "https://rudish.dev/",
+      link: "https://github.com/Rudishh/rudi_portfolio",
     },
     {
       id: 3,
