@@ -160,17 +160,21 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link:"https://github.com/Rudishh"
     },
     {
       id: 2,
       img: "/twit.svg",
+      link:"https://x.com/Rudishh_"
     },
     {
       id: 3,
       img: "/link.svg",
+      link:"https://www.linkedin.com/"
     },
     {
       id: 4,
-      img:"/discord logo.png"
+      img:"/discord logo.png",
+      link:"https://discord.gg/NmTFgsxm7e"
     }
   ];
