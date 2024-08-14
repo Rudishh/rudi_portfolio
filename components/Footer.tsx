@@ -21,7 +21,7 @@ Reach out me for professional and project inquiries, commission and collaboratio
 
         </div>
 
-        <div className='flex items-center md:gap-3 gap-6'>
+        <div className='flex items-center justify-center md:gap-3 gap-6 pt-4'>
   {socialMedia.map((profile) => (
     <a key={profile.id} href={profile.link} target="_blank" rel="noopener noreferrer">
       <div className='w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border border-black-300'>
