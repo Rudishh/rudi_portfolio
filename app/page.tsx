@@ -8,7 +8,6 @@ import { navItems } from "@/data";
 import Clients from "@/components/Clients"
 import Footer from "@/components/Footer";
 import Experience from "@/components/Skills";
-import Test from "@/components/Test";
 import Positions from "@/components/Positions";
 
 export default function Home() {
@@ -17,7 +16,6 @@ export default function Home() {
       <div className = "max-w-7xl w-full">
         <FloatingNav navItems={navItems}/>
         <Hero />
-        <Test />
         <Positions />
         <Experience />
         <RecentProjects />

@@ -80,7 +80,7 @@ export const navItems = [
       id: 2,
       title: "Rudi portfolio",
       des: "My portfolio website to showcase my projects and about me",
-      img: "https://img.rudish.dev/2Y3fThkEOF.png",
+      img: "/rudishdev.png",
       iconLists: ["/re.svg", "/next.svg","/tail.svg", "/ts.svg"],
       link: "https://github.com/Rudishh/rudi_portfolio",
     },
@@ -91,6 +91,14 @@ export const navItems = [
       img: "/confrontai.png",
       iconLists: ["/sql logo.png", "/jslogo.png","/discord logo.png"],
       link: "https://confrontai.com/",
+    },
+    {
+      id: 4,
+      title: "Bug report forum",
+      des: "Bug report forum with interacting UI to report any bug of projects made by rudish",
+      img: "/bugreport.png",
+      iconLists: ["/sql logo.png", "/jslogo.png","/discord logo.png"],
+      link: "https://bugreport.rudish.dev/",
     },
   ];
   
